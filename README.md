@@ -12,5 +12,8 @@ https://colab.research.google.com/drive/1-9y_tNnfDA8msHf95rvPjAv-2JSXYCrR?usp=sh
 
 
 # ALL RIGHTS RESERVED TO META AI
+![Capture](https://github.com/AliQambari/SeamlessM4T/assets/43219682/36bbbc4e-4e7d-415c-9816-b804ac1b070e)
+
+
 
 
