@@ -3,6 +3,9 @@ SeamlessM4T یک مدل چند زبانه و چند وظیفه ای است که 
 
 از طریق این ریپو میتوانید مدل جدید فیسبوک برای تبدیل گفتار به گفتار / گفتار به متن / ترجمه و متن به گفتار را تست و بررسی کنید. برای آسانی بیشتر در این ویرایش، از زبان های فارسی، انگلیسی، آلمانی، فرانسه و اسپانیایی پشتیبانی می شود.
 
+لینک کولب: 
+https://colab.research.google.com/drive/1-9y_tNnfDA8msHf95rvPjAv-2JSXYCrR?usp=sharing
+
 # This unified model enables multiple tasks like Speech-to-Speech (S2ST), Speech-to-Text (S2TT), Text-to-Speech (T2ST) translation, and more, without relying on multiple separate models.
 
 
