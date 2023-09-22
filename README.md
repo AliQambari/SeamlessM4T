@@ -11,4 +11,6 @@ https://colab.research.google.com/drive/1-9y_tNnfDA8msHf95rvPjAv-2JSXYCrR?usp=sh
 با اجرای آخرین بلوک برنامه تحت فریمورگ GRADIO اجرا می شود.
 
 
+# ALL RIGHTS RESERVED TO META AI
+
 
