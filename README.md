@@ -6,6 +6,5 @@ SeamlessM4T یک مدل چند زبانه و چند وظیفه ای است که 
 لینک کولب: 
 https://colab.research.google.com/drive/1-9y_tNnfDA8msHf95rvPjAv-2JSXYCrR?usp=sharing
 
-# This unified model enables multiple tasks like Speech-to-Speech (S2ST), Speech-to-Text (S2TT), Text-to-Speech (T2ST) translation, and more, without relying on multiple separate models.
 
 
